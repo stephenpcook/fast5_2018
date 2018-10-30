@@ -1,4 +1,4 @@
-# fast5_2019
+# fast5_2018
 
 This is an analysis of score data from the 2018 Netball Fast5 World Series in
 Melbourne.  The data used has been extracted from official statistics, of which
