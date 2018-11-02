@@ -12,12 +12,13 @@ The main file is the jupyter notebook `fast5_melbourne.ipynb`, running python
 
 # Data sources and description
 
-The tab-separated data in `fast5_melbourne_all.csv` is taken from the team
+The comma-separated data in `fast5_melbourne_all.csv` is taken from the team
 statistics pages of http://fast5worldseries.com.au/ for example
 http://fast5worldseries.com.au/2018-teams/england-2018/#statistics/ .  These
 give the zones scored from and the attempted shots, but do not indicate when a
 score was during a power play period (where points are doubled).  Country
-codes have been appended to each row.
+codes have been appended to each row, and the original tab-separated data has
+been changed to use commas.
 
 Data in `R1_2.csv` has been extracted from the *Score Flow* section of the
 match reports at https://mc.championdata.com/fast5worldseries/ , which
